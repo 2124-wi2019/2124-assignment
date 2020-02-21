@@ -1,4 +1,4 @@
-# 2124 Assignment
+# INFO Assignment
 
 Instructions and any starter code for this assignment reside in our online class.
 
